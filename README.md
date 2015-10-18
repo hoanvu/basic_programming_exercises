@@ -14,8 +14,15 @@ Các bài giải mình sẽ viết theo chuẩn PEP8 (sử dụng flake8 để k
 4. Đảo ngược một mảng
 5. Tìm một hoặc nhiều từ dài nhất trong một chuỗi
 6. Tìm số lớn nhất và nhỏ nhất trong một mảng
-7. Tính tổng và trung bình của các số trong một mảng
-8. 
+7. Tính tổng, tích và trung bình của các số trong một mảng
+8. In hoa một chuỗi (chuyển toàn bộ chữ cái thường sang in hoa, giữ nguyên những chữ cái in hoa)
+9. Kiểm tra xem một chữ cái có phải là nguyên âm hay không
+10. Tìm tất cả các từ trong một chuỗi có độ dài lớn hơn 'n' ('n' là do người dùng chọn)
+11. Tìm tất cả các số trong một mảng lớn hơn 'n' ('n' là do người dùng chọn)
+12. Kiểm tra xem một chuỗi có phải là palindrome hay không
+13. Tính giai thừa
+14. Kiểm tra xem một số được nhập vào có phải là số nguyên tố hay không
+15. Tìm số nguyên tố thứ 'n' ('n' là do người dùng chọn)
 
 ### Mô tả chi tiết bài tập
 1. Tính độ dài một chuỗi không sử dụng hàm có sẵn
@@ -31,14 +38,19 @@ Các bài giải mình sẽ viết theo chuẩn PEP8 (sử dụng flake8 để k
 3. <strong>Đảo ngược một chuỗi</strong>
     + Input: nhập vào 1 chuỗi bất kì. VD: "Unbelievable", "This is a sample string!", ...
     + Ouput: chuỗi mới là đảo ngược của chuỗi vừa nhập
-    + Kiến thức cần biết: vòng lặp, chuỗi
+    + Kiến thức cần biết: vòng lặp, chuỗi, string slicing
 
 4. <strong>Đảo ngược một mảng</strong>
     + Input: nhập vào một mảng bất kì. VD: [1, 2, 3, 4, 5], [321, -2, .5, 22], ...
     + Output: một mảng mới là đảo ngược của mảng vừa nhập
-    + Kiến thức cần biết: vòng lặp, mảng
+    + Kiến thức cần biết: vòng lặp, mảng, array slicing
 
 5. <strong>Tìm từ (một hoặc nhiều) dài nhất trong một chuỗi</strong>
     + Input: nhập vào một chuỗi bất kì. VD: "Day don gian la mot chuoi nhap vao de test"
     + Output: một mảng bao gồm một hoặc nhiều từ có độ dài lớn nhất trong chuỗi vừa nhập. Ví dụ có 3 từ dài nhất cùng có 5 chữ cái thì sẽ trả về mảng có cả 3 từ đó.
     + Kiến thức cần biết: vòng lặp, câu điều kiện, mảng, chuỗi
+
+6. <strong>Tìm số lớn nhất và nhỏ nhất trong một mảng, sử dụng hàm</strong>
+    + Input: nhập vào một mảng bất kì
+    + Output: số lớn nhất và nhỏ nhất trong mảng. Viết 2 hàm tương ứng với số lớn nhất và nhỏ nhất
+    + Kiến thức cần biết: vòng lặp, mảng, câu điều kiện, hàm
