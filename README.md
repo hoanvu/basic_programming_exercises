@@ -8,12 +8,12 @@ Các bạn không nên dùng các standard library của Python (hay một ngôn
 Các bài giải mình sẽ viết theo chuẩn PEP8 (sử dụng flake8 để kiểm tra code), mình cũng recommend là bạn hãy tập cho mình thói quen viết code theo chuẩn này, rất có lợi khi đi làm thực tế.
 
 ### Danh sách bài tập (click vào mỗi bài tập để xem đáp án)
-1. Tính độ dài một chuỗi không sử dụng hàm có sẵn
-2. Tính độ dài một mảng không sử dụng hàm có sẵn
-3. Đảo ngược một chuỗi
-4. Đảo ngược một mảng
-5. Tìm một hoặc nhiều từ dài nhất trong một chuỗi
-6. Tìm số lớn nhất và nhỏ nhất trong một mảng
+1. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/1.py">Tính độ dài một chuỗi không sử dụng hàm có sẵn</a>
+2. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/2.py">Tính độ dài một mảng không sử dụng hàm có sẵn</a>
+3. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/3.py">Đảo ngược một chuỗi</a>
+4. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/4.py">Đảo ngược một mảng</a>
+5. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/5.py">Tìm một hoặc nhiều từ dài nhất trong một chuỗi</a>
+6. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/6.py">Tìm số lớn nhất và nhỏ nhất trong một mảng</a>
 7. Tính tổng, tích và trung bình của các số trong một mảng
 8. In hoa một chuỗi (chuyển toàn bộ chữ cái thường sang in hoa, giữ nguyên những chữ cái in hoa)
 9. Kiểm tra xem một chữ cái có phải là nguyên âm hay không
@@ -25,12 +25,12 @@ Các bài giải mình sẽ viết theo chuẩn PEP8 (sử dụng flake8 để k
 15. Tìm số nguyên tố thứ 'n' ('n' là do người dùng chọn)
 
 ### Mô tả chi tiết bài tập
-1. Tính độ dài một chuỗi không sử dụng hàm có sẵn
+1. <strong>Tính độ dài một chuỗi không sử dụng hàm có sẵn</strong>
     + Input: nhập vào một chuỗi bất kì. VD: "Unbelievable", "This is a sample string!", ...
     + Output: số chữ cái của chuỗi vừa nhập, bao gồm cả dấu cách
     + Kiến thức cần biết: vòng lặp, phép toán (không sử dụng hàm len() có sẵn của Python)
 
-2. Tính độ dài một mảng không sử dụng hàm có sẵn
+2. <strong>Tính độ dài một mảng không sử dụng hàm có sẵn</strong>
     + Input: nhập vào một chuỗi bất kì. VD: [1, 2, 3, 4, 5, 6, 7, 8, 9], [5, 5, 5, 5, 5, 5], ...
     + Output: số chữ cái của chuỗi vừa nhập, bao gồm cả dấu cách
     + Kiến thức cần biết: vòng lặp, phép toán (không sử dụng hàm len() có sẵn của Python)
