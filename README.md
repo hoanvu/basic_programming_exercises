@@ -18,10 +18,10 @@ Các bài giải mình sẽ viết theo chuẩn PEP8 (sử dụng flake8 để k
 8. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/008.py">In hoa một chuỗi (chuyển toàn bộ chữ cái thường sang in hoa, giữ nguyên những chữ cái in hoa)</a>
 9. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/009.py">Kiểm tra xem một chữ cái có phải là nguyên âm hay không</a>
 10. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/010.py">Tìm tất cả các từ trong một chuỗi có độ dài lớn hơn 'n' ('n' là do người dùng chọn)</a>
-11. Tìm tất cả các số trong một mảng lớn hơn 'n' ('n' là do người dùng chọn)
-12. Kiểm tra xem một chuỗi có phải là palindrome hay không
-13. Tính giai thừa
-14. Kiểm tra xem một số được nhập vào có phải là số nguyên tố hay không
+11. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/011.py">Tìm tất cả các số trong một mảng lớn hơn 'n' ('n' là do người dùng chọn)</a>
+12. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/012.py">Kiểm tra xem một chuỗi có phải là palindrome hay không</a>
+13. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/013.py">Tính giai thừa</a>
+14. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/014.py">Kiểm tra xem một số được nhập vào có phải là số nguyên tố hay không</a>
 15. Tìm số nguyên tố thứ 'n' ('n' là do người dùng chọn)
 
 ### Mô tả chi tiết bài tập
@@ -63,7 +63,7 @@ Các bài giải mình sẽ viết theo chuẩn PEP8 (sử dụng flake8 để k
 8. <strong>In hoa một chuỗi không sử dụng hàm upper()</strong>
     + Input: nhập vào một chuỗi bất kì. VD: "I love U", "Python's awesome!"
     + Output: chuỗi vừa nhập dưới dạng in hoa. VD: "I LOVE U", "PYTHON'S AWESOME!"
-    + Kiến thức cần biết: vòng lặp, chuỗi
+    + Kiến thức cần biết: vòng lặp, chuỗi, dictionary, tuple
 
 9. <strong>Kiểm tra xem một chữ cái có phải là nguyên âm hay không</strong>
     + Input: nhập vào một chữ cái bất kì. VD: 'a', 'f', 'g', 'd', 'e', ...
@@ -73,4 +73,24 @@ Các bài giải mình sẽ viết theo chuẩn PEP8 (sử dụng flake8 để k
 10. <strong>Tìm tất cả các từ trong một chuỗi có độ dài lớn hơn 'n'</strong>
     + Input: nhập vào một chuỗi bất kì và số nguyên 'n'
     + Output: tất cả các từ trong chuỗi vừa nhập có độ dài lớn hơn 'n'
-    + Kiến thức cần biết: chuỗi, vòng lặp, câu điều kiện
+    + Kiến thức cần biết: chuỗi, vòng lặp, câu điều kiện, list comprehension
+
+11. <strong>Tìm tất cả các số trong một mảng lớn hơn 'n'</strong>
+    + Input: nhập vào một mảng bất kì và số nguyên 'n'
+    + Output: tất cả các số trong chuỗi vừa nhập lớn hơn 'n'
+    + Kiến thức cần biết: mảng, vòng lặp, câu điều kiện, hàm
+
+12. <strong>Kiểm tra xem một chuỗi có phải là palindrome hay không</strong>
+    + Input: nhập vào một chuỗi bất kì
+    + Output: True nếu chuỗi là palindrome, False nếu không phải
+    + Kiến thức cần biết: chuỗi, hàm
+
+13. <strong>Tính giai thừa</strong>
+    + Input: một số bất kì. VD: 5, 10, 8, ...
+    + Output: giai thừa của số vừa nhập
+    + Kiến thức cần biết: đệ quy, hàm
+
+14. <strong>Kiểm tra xem một số được nhập vào có phải là số nguyên tố hay không</strong>
+    + Input: một số bất kì. VD: 5, 10, 8, ...
+    + Output: True nếu số vừa nhập là một số nguyên tố, False nếu không phải
+    + Kiến thức cần biết: thư viện 'math' của Python (để tính căn bậc 2)
