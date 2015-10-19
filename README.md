@@ -8,16 +8,16 @@ Các bạn không nên dùng các standard library của Python (hay một ngôn
 Các bài giải mình sẽ viết theo chuẩn PEP8 (sử dụng flake8 để kiểm tra code), mình cũng recommend là bạn hãy tập cho mình thói quen viết code theo chuẩn này, rất có lợi khi đi làm thực tế.
 
 ### Danh sách bài tập (click vào mỗi bài tập để xem đáp án)
-1. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/1.py">Tính độ dài một chuỗi không sử dụng hàm có sẵn</a>
-2. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/2.py">Tính độ dài một mảng không sử dụng hàm có sẵn</a>
-3. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/3.py">Đảo ngược một chuỗi</a>
-4. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/4.py">Đảo ngược một mảng</a>
-5. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/5.py">Tìm một hoặc nhiều từ dài nhất trong một chuỗi</a>
-6. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/6.py">Tìm số lớn nhất và nhỏ nhất trong một mảng</a>
-7. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/7.py">Tính tổng, tích và trung bình của các số trong một mảng</a>
-8. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/8.py">In hoa một chuỗi (chuyển toàn bộ chữ cái thường sang in hoa, giữ nguyên những chữ cái in hoa)</a>
-9. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/9.py">Kiểm tra xem một chữ cái có phải là nguyên âm hay không</a>
-10. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/10.py">Tìm tất cả các từ trong một chuỗi có độ dài lớn hơn 'n' ('n' là do người dùng chọn)</a>
+1. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/001.py">Tính độ dài một chuỗi không sử dụng hàm có sẵn</a>
+2. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/002.py">Tính độ dài một mảng không sử dụng hàm có sẵn</a>
+3. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/003.py">Đảo ngược một chuỗi</a>
+4. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/004.py">Đảo ngược một mảng</a>
+5. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/005.py">Tìm một hoặc nhiều từ dài nhất trong một chuỗi</a>
+6. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/006.py">Tìm số lớn nhất và nhỏ nhất trong một mảng</a>
+7. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/007.py">Tính tổng, tích và trung bình của các số trong một mảng</a>
+8. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/008.py">In hoa một chuỗi (chuyển toàn bộ chữ cái thường sang in hoa, giữ nguyên những chữ cái in hoa)</a>
+9. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/009.py">Kiểm tra xem một chữ cái có phải là nguyên âm hay không</a>
+10. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/010.py">Tìm tất cả các từ trong một chuỗi có độ dài lớn hơn 'n' ('n' là do người dùng chọn)</a>
 11. Tìm tất cả các số trong một mảng lớn hơn 'n' ('n' là do người dùng chọn)
 12. Kiểm tra xem một chuỗi có phải là palindrome hay không
 13. Tính giai thừa
