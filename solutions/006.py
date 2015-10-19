@@ -1,6 +1,10 @@
 # -*- coding: utf-8 -*-
 # Tìm số lớn nhất và nhỏ nhất trong mảng
 
+# Python có hỗ trợ hàm max() và min() cho phép chúng ta tìm số
+# lớn nhất và nhỏ nhất tương ứng của một mảng. Tuy nhiên do mục đích là
+# học và nắm các cấu trúc cơ bản nên chúng ta sẽ không dùng hai hàm này.
+
 
 def max(numbers):
     max = numbers[0]

@@ -54,3 +54,23 @@ Các bài giải mình sẽ viết theo chuẩn PEP8 (sử dụng flake8 để k
     + Input: nhập vào một mảng bất kì
     + Output: số lớn nhất và nhỏ nhất trong mảng. Viết 2 hàm tương ứng với số lớn nhất và nhỏ nhất
     + Kiến thức cần biết: vòng lặp, mảng, câu điều kiện, hàm
+
+7. <strong>Tính tổng, tích và trung bình của các số trong một mảng</strong>
+    + Input: nhập vào một mảng bất kì
+    + Output: tổng, tích và trung bình cộng của các số trong mảng vừa nhập
+    + Kiến thức cần biết: mảng, vòng lặp, các phép toán
+
+8. <strong>In hoa một chuỗi không sử dụng hàm upper()</strong>
+    + Input: nhập vào một chuỗi bất kì. VD: "I love U", "Python's awesome!"
+    + Output: chuỗi vừa nhập dưới dạng in hoa. VD: "I LOVE U", "PYTHON'S AWESOME!"
+    + Kiến thức cần biết: vòng lặp, chuỗi
+
+9. <strong>Kiểm tra xem một chữ cái có phải là nguyên âm hay không</strong>
+    + Input: nhập vào một chữ cái bất kì. VD: 'a', 'f', 'g', 'd', 'e', ...
+    + Output: True nếu chữ cái vừa nhập là một nguyên âm, False nếu không phải
+    + Kiến thức cần biết: câu điều kiện, hàm
+
+10. <strong>Tìm tất cả các từ trong một chuỗi có độ dài lớn hơn 'n'</strong>
+    + Input: nhập vào một chuỗi bất kì và số nguyên 'n'
+    + Output: tất cả các từ trong chuỗi vừa nhập có độ dài lớn hơn 'n'
+    + Kiến thức cần biết: chuỗi, vòng lặp, câu điều kiện
