@@ -23,6 +23,11 @@ Các bài giải mình sẽ viết theo chuẩn PEP8 (sử dụng flake8 để k
 13. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/013.py">Tính giai thừa</a>
 14. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/014.py">Kiểm tra xem một số được nhập vào có phải là số nguyên tố hay không</a>
 15. Tìm số nguyên tố thứ 'n' ('n' là do người dùng chọn)
+16. Tìm tất cả các nhân tử chung của 2 mảng
+17. Tìm tất cả ước số chung của một số nguyên bất kì
+18. Tìm ước số chung lớn nhất của 2 số nguyên a và b bât kì
+19. Chuyển tất cả chữ cái đầu tiên của mỗi từ trong một chuỗi sang in hoa, các chữ cái còn lại trong từ viết thường
+20. Cắt bớt một chuỗi nếu chuỗi lớn hơn một độ dài bất kì do người dùng nhập
 
 ### Mô tả chi tiết bài tập
 1. <strong>Tính độ dài một chuỗi không sử dụng hàm có sẵn</strong>
