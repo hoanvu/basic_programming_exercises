@@ -17,17 +17,18 @@ Các bài giải mình sẽ viết theo chuẩn PEP8 (sử dụng flake8 để k
 7. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/007.py">Tính tổng, tích và trung bình của các số trong một mảng</a>
 8. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/008.py">In hoa một chuỗi (chuyển toàn bộ chữ cái thường sang in hoa, giữ nguyên những chữ cái in hoa)</a>
 9. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/009.py">Kiểm tra xem một chữ cái có phải là nguyên âm hay không</a>
-10. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/010.py">Tìm tất cả các từ trong một chuỗi có độ dài lớn hơn 'n' ('n' là do người dùng chọn)</a>
-11. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/011.py">Tìm tất cả các số trong một mảng lớn hơn 'n' ('n' là do người dùng chọn)</a>
+10. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/010.py">Tìm tất cả các từ trong một chuỗi có độ dài lớn hơn n (n là do người dùng chọn)</a>
+11. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/011.py">Tìm tất cả các số trong một mảng lớn hơn n (n là do người dùng chọn)</a>
 12. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/012.py">Kiểm tra xem một chuỗi có phải là palindrome hay không</a>
 13. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/013.py">Tính giai thừa</a>
 14. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/014.py">Kiểm tra xem một số được nhập vào có phải là số nguyên tố hay không</a>
-15. Tìm số nguyên tố thứ 'n' ('n' là do người dùng chọn)
+15. Tìm số nguyên tố thứ n (n là do người dùng chọn)
 16. Tìm tất cả các nhân tử chung của 2 mảng
 17. Tìm tất cả ước số chung của một số nguyên bất kì
 18. Tìm ước số chung lớn nhất của 2 số nguyên a và b bât kì
 19. Chuyển tất cả chữ cái đầu tiên của mỗi từ trong một chuỗi sang in hoa, các chữ cái còn lại trong từ viết thường
 20. Cắt bớt một chuỗi nếu chuỗi lớn hơn một độ dài bất kì do người dùng nhập
+21. Sinh chuỗi Fibonacci
 
 ### Mô tả chi tiết bài tập
 1. <strong>Tính độ dài một chuỗi không sử dụng hàm có sẵn</strong>
@@ -98,4 +99,36 @@ Các bài giải mình sẽ viết theo chuẩn PEP8 (sử dụng flake8 để k
 14. <strong>Kiểm tra xem một số được nhập vào có phải là số nguyên tố hay không</strong>
     + Input: một số bất kì. VD: 5, 10, 8, ...
     + Output: True nếu số vừa nhập là một số nguyên tố, False nếu không phải
-    + Kiến thức cần biết: thư viện 'math' của Python (để tính căn bậc 2)
+    + Kiến thức cần biết: thư viện 'math' của Python (để tính căn bậc 2), câu điều kiện
+
+15. <strong>Tìm số nguyên tố thứ n (n là do người dùng chọn)</strong>
+    + Input: một số nguyên n bất kì. VD: 4, 12, 300, ...
+    + Output: số nguyên tố thứ n. VD: số nguyên tố thứ 4 là số 7.
+    + Kiến thức cần biết: Python generator
+
+16. <strong>Tìm tất cả các nhân tử chung của 2 mảng</strong>
+    + Input: hai mảng bất kì. VD: [1, 2, 3, 4, '5', 'test'] và [4, 5, 6, 'test', 7]
+    + Output: các nhân tử chung của 2 mảng vừa nhập. VD: với 2 mảng nhập phía trên, kết quả là: [4, 'test']
+    + Kiến thức cần biết: mảng
+
+17. <strong>Tìm tất cả ước số của một số nguyên bất kì</strong>
+    + Input: một số nguyên bất kì. VD: 6, 12, 40, ...
+    + Output: tất cả các ước số của số vừa nhập. VD: nếu số được nhập là 6, kết quả sẽ trả về là: [1, 2, 3]
+    + Kiến thức cần biết: 
+
+18. <strong>Tìm ước số chung lớn nhất của 2 số nguyên a và b bât kì</strong>
+    + Input: 2 số nguyên bất kì. VD: 9 và 12, 10 và 15, ...
+    + Output: ước số chung lớn nhất của 2 số vừa nhập. VD: nếu 2 số là 9 và 12 thì kết quả sẽ là 3
+    + Kiến thức cần biết: 
+
+19. <strong>Chuyển tất cả chữ cái đầu tiên của mỗi từ trong một chuỗi sang in hoa, các chữ cái còn lại trong từ viết thường</strong>
+    + Input: một chuỗi bất kì. VD: "Co con gIo baY ngAng qua!"
+    + Output: chuỗi vừa nhập với tất cả các chữ cái đầu tiên của mỗi từ được viết hoa, còn lại viết thường
+    + Kiến thức cần biết: chuỗi, mảng
+
+20. <strong>Cắt bớt một chuỗi nếu chuỗi lớn hơn một độ dài bất kì do người dùng nhập</strong>
+    + Input: một chuỗi và một số nguyên n bất kì
+    + Output: 
+        + Nếu n lớn hơn độ dài của chuỗi được nhập, trả về chuỗi ban đầu
+        + Nếu n nhỏ hơn, trả về một chuỗi con của chuỗi vừa nhập, với độ dài n (từ 0 tới n - 1)
+    + Kiến thức cần biết: chuỗi, câu điều kiện
