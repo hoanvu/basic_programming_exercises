@@ -26,9 +26,9 @@ Các bài giải mình sẽ viết theo chuẩn PEP8 (sử dụng flake8 để k
 16. Tìm tất cả các nhân tử chung của 2 mảng
 17. Tìm tất cả ước số chung của một số nguyên bất kì
 18. Tìm ước số chung lớn nhất của 2 số nguyên a và b bât kì
-19. Chuyển tất cả chữ cái đầu tiên của mỗi từ trong một chuỗi sang in hoa, các chữ cái còn lại trong từ viết thường
-20. Cắt bớt một chuỗi nếu chuỗi lớn hơn một độ dài bất kì do người dùng nhập
-21. Sinh chuỗi Fibonacci
+19. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/019.py">Chuyển tất cả chữ cái đầu tiên của mỗi từ trong một chuỗi sang in hoa, các chữ cái còn lại trong từ viết thường</a>
+20. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/020.py">Cắt bớt một chuỗi nếu chuỗi lớn hơn một độ dài bất kì do người dùng nhập</a>
+21. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/021.py">Sinh chuỗi Fibonacci</a>
 
 ### Mô tả chi tiết bài tập
 1. <strong>Tính độ dài một chuỗi không sử dụng hàm có sẵn</strong>
