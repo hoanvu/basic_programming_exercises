@@ -132,3 +132,8 @@ Các bài giải mình sẽ viết theo chuẩn PEP8 (sử dụng flake8 để k
         + Nếu n lớn hơn độ dài của chuỗi được nhập, trả về chuỗi ban đầu
         + Nếu n nhỏ hơn, trả về một chuỗi con của chuỗi vừa nhập, với độ dài n (từ 0 tới n - 1)
     + Kiến thức cần biết: chuỗi, câu điều kiện
+
+21. <strong>Sinh chuỗi Fibonacci</strong>
+    + Input: mỗi số nguyên n bất kì
+    + Output: Chuỗi Fibonacci với độ dài n chữ số
+    + Kiến thức cần biết: mảng
