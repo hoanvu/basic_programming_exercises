@@ -7,6 +7,7 @@ def find_divisors(number):
     divisors.append(1)  # 1 is the divisor of all numbers
     count = 2
 
+    # From 2 to number - 1, find all numbers that is divisible by 'number'
     while count < number - 1:
         if number % count == 0:
             divisors.append(count)
