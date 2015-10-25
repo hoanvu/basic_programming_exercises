@@ -142,9 +142,12 @@ Các bài giải mình sẽ viết theo chuẩn PEP8 (sử dụng flake8 để k
 22. <strong>In biểu đồ</strong>
     + Input: một mảng bao gồm các số nguyên dương bất kì. VD: [9, 4, 7]
     + Output: một biểu đồ hàng ngang với mỗi dòng có độ dài tương ứng với một phần tử của mảng
+        
         VD: với mảng phía trên, chương trình sẽ phải in ra như sau:
 
         >+++++++++
+        
         >++++
+        
         >+++++++
     + Kiến thức cần biết: mảng
