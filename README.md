@@ -29,6 +29,7 @@ Các bài giải mình sẽ viết theo chuẩn PEP8 (sử dụng flake8 để k
 19. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/basic_019.py">Chuyển tất cả chữ cái đầu tiên của mỗi từ trong một chuỗi sang in hoa, các chữ cái còn lại trong từ viết thường</a>
 20. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/basic_020.py">Cắt bớt một chuỗi nếu chuỗi lớn hơn một độ dài bất kì do người dùng nhập</a>
 21. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/basic_021.py">Sinh chuỗi Fibonacci</a>
+22. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/basic_022.py">In biểu đồ</a>
 
 ### Mô tả chi tiết bài tập
 1. <strong>Tính độ dài một chuỗi không sử dụng hàm có sẵn</strong>
@@ -114,12 +115,12 @@ Các bài giải mình sẽ viết theo chuẩn PEP8 (sử dụng flake8 để k
 17. <strong>Tìm tất cả ước số của một số nguyên bất kì</strong>
     + Input: một số nguyên bất kì. VD: 6, 12, 40, ...
     + Output: tất cả các ước số của số vừa nhập. VD: nếu số được nhập là 6, kết quả sẽ trả về là: [1, 2, 3]
-    + Kiến thức cần biết: 
+    + Kiến thức cần biết: hàm, while loop
 
 18. <strong>Tìm ước số chung lớn nhất của 2 số nguyên a và b bât kì</strong>
     + Input: 2 số nguyên bất kì. VD: 9 và 12, 10 và 15, ...
     + Output: ước số chung lớn nhất của 2 số vừa nhập. VD: nếu 2 số là 9 và 12 thì kết quả sẽ là 3
-    + Kiến thức cần biết: 
+    + Kiến thức cần biết: hàm
 
 19. <strong>Chuyển tất cả chữ cái đầu tiên của mỗi từ trong một chuỗi sang in hoa, các chữ cái còn lại trong từ viết thường</strong>
     + Input: một chuỗi bất kì. VD: "Co con gIo baY ngAng qua!"
@@ -131,9 +132,19 @@ Các bài giải mình sẽ viết theo chuẩn PEP8 (sử dụng flake8 để k
     + Output: 
         + Nếu n lớn hơn độ dài của chuỗi được nhập, trả về chuỗi ban đầu
         + Nếu n nhỏ hơn, trả về một chuỗi con của chuỗi vừa nhập, với độ dài n (từ 0 tới n - 1)
-    + Kiến thức cần biết: chuỗi, câu điều kiện
+    + Kiến thức cần biết: chuỗi, câu điều kiện, hàm
 
 21. <strong>Sinh chuỗi Fibonacci</strong>
     + Input: mỗi số nguyên n bất kì
     + Output: Chuỗi Fibonacci với độ dài n chữ số
+    + Kiến thức cần biết: mảng, hàm, câu điều kiện
+
+22. <strong>In biểu đồ</strong>
+    + Input: một mảng bao gồm các số nguyên dương bất kì. VD: [9, 4, 7]
+    + Output: một biểu đồ hàng ngang với mỗi dòng có độ dài tương ứng với một phần tử của mảng
+        VD: với mảng phía trên, chương trình sẽ phải in ra như sau:
+
+        *********
+        ****
+        *******
     + Kiến thức cần biết: mảng
