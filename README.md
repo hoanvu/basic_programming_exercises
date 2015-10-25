@@ -144,7 +144,7 @@ Các bài giải mình sẽ viết theo chuẩn PEP8 (sử dụng flake8 để k
     + Output: một biểu đồ hàng ngang với mỗi dòng có độ dài tương ứng với một phần tử của mảng
         VD: với mảng phía trên, chương trình sẽ phải in ra như sau:
 
-        >*********
-        >****
-        >*******
+        >#########
+        >####
+        >#######
     + Kiến thức cần biết: mảng
