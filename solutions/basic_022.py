@@ -10,7 +10,7 @@
 def histogram(array):
     histo = ""
     for number in array:
-        histo += '*' * number
+        histo += '+' * number
         histo += '\n'
 
     return histo
