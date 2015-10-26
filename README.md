@@ -163,7 +163,7 @@ Các bài giải mình sẽ viết theo chuẩn PEP8 (sử dụng flake8 để k
 24. <strong>Tính độ dài của mỗi từ trong một chuỗi</strong>
     + Input: một chuỗi bất kì
     + Output: một dict với mỗi cặp key/value là một từ và độ dài tương ứng của nó
-    + Kiến thức cần biết: Python dict, 
+    + Kiến thức cần biết: Python dict, dict comprehension
 
 25. <strong>Tính tần suất xuất hiện của mỗi chữ cái trong một chuỗi</strong>
     + Input: một chuỗi bất kì
