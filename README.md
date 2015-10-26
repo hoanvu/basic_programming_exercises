@@ -165,7 +165,7 @@ Các bài giải mình sẽ viết theo chuẩn PEP8 (sử dụng flake8 để k
     + Output: một dict với mỗi cặp key/value là một từ và độ dài tương ứng của nó
     + Kiến thức cần biết: Python dict, dict comprehension
 
-25. <strong>Tính tần suất xuất hiện của mỗi chữ cái trong một chuỗi</strong>
+25. <strong>Tính tần suất xuất hiện của mỗi chữ cái trong một chuỗi (không tính dấu cách)</strong>
     + Input: một chuỗi bất kì
     + Output: một dict với mỗi cặp key/value là một chữ cái và tần suất xuất hiện tương ứng của chữ cái đó
     + Kiến thức cần biết: Python dict
