@@ -7,6 +7,8 @@ Các bạn không nên dùng các standard library của Python (hay một ngôn
 
 Các bài giải mình sẽ viết theo chuẩn PEP8 (sử dụng flake8 để kiểm tra code), mình cũng recommend là bạn hãy tập cho mình thói quen viết code theo chuẩn này, rất có lợi khi đi làm thực tế.
 
+Đây là phần I - Xem các bài tập Phần II tại đây.
+
 ### Danh sách bài tập (click vào mỗi bài tập để xem đáp án)
 1. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/basic_001.py">Tính độ dài một chuỗi không sử dụng hàm có sẵn</a>
 2. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/basic_002.py">Tính độ dài một mảng không sử dụng hàm có sẵn</a>
@@ -168,4 +170,6 @@ Các bài giải mình sẽ viết theo chuẩn PEP8 (sử dụng flake8 để k
 25. <strong>Tính tần suất xuất hiện của mỗi chữ cái trong một chuỗi (không tính dấu cách)</strong>
     + Input: một chuỗi bất kì
     + Output: một dict với mỗi cặp key/value là một chữ cái và tần suất xuất hiện tương ứng của chữ cái đó
-    + Kiến thức cần biết: Python dict
+    + Kiến thức cần biết: Python dict, set, dict comprehension
+
+Xem các bài tập trong phần 2.
