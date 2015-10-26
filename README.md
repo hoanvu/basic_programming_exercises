@@ -30,6 +30,9 @@ Các bài giải mình sẽ viết theo chuẩn PEP8 (sử dụng flake8 để k
 20. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/basic_020.py">Cắt bớt một chuỗi nếu chuỗi lớn hơn một độ dài bất kì do người dùng nhập</a>
 21. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/basic_021.py">Sinh chuỗi Fibonacci</a>
 22. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/basic_022.py">In biểu đồ</a>
+23. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/basic_023.py">Kiểm tra xem một chuỗi có phải là 1 pangram hay không</a>
+24. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/basic_024.py">Tính độ dài của mỗi từ trong một chuỗi</a>
+25. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/basic_025.py">Tính tần suất xuất hiện của mỗi chữ cái trong một chuỗi</a>
 
 ### Mô tả chi tiết bài tập
 1. <strong>Tính độ dài một chuỗi không sử dụng hàm có sẵn</strong>
@@ -151,3 +154,18 @@ Các bài giải mình sẽ viết theo chuẩn PEP8 (sử dụng flake8 để k
         
         >+++++++
     + Kiến thức cần biết: mảng
+
+23. <strong>Kiểm tra xem một chuỗi có phải là 1 pangram hay không. Một chuỗi được gọi là pangram nếu nó chứa tất cả kí tự trong bảng chữ cái</strong>
+    + Input: một chuỗi bất kì
+    + Output: True nếu chuỗi vừa nhập là một pangram, False nếu không phải
+    + Kiến thức cần biết: 
+
+24. <strong>Tính độ dài của mỗi từ trong một chuỗi</strong>
+    + Input: một chuỗi bất kì
+    + Output: một dict với mỗi cặp key/value là một từ và độ dài tương ứng của nó
+    + Kiến thức cần biết: Python dict, 
+
+25. <strong>Tính tần suất xuất hiện của mỗi chữ cái trong một chuỗi</strong>
+    + Input: một chuỗi bất kì
+    + Output: một dict với mỗi cặp key/value là một chữ cái và tần suất xuất hiện tương ứng của chữ cái đó
+    + Kiến thức cần biết: Python dict
