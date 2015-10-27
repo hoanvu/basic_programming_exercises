@@ -10,31 +10,31 @@ Các bài giải mình sẽ viết theo chuẩn PEP8 (sử dụng flake8 để k
 <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/Ph%E1%BA%A7n%202.md">Đây là phần I - Xem các bài tập Phần II tại đây.</a>
 
 ### Danh sách bài tập (click vào mỗi bài tập để xem đáp án)
-1. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/basic_001.py">Tính độ dài một chuỗi không sử dụng hàm có sẵn</a>
-2. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/basic_002.py">Tính độ dài một mảng không sử dụng hàm có sẵn</a>
-3. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/basic_003.py">Đảo ngược một chuỗi</a>
-4. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/basic_004.py">Đảo ngược một mảng</a>
-5. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/basic_005.py">Tìm một hoặc nhiều từ dài nhất trong một chuỗi</a>
-6. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/basic_006.py">Tìm số lớn nhất và nhỏ nhất trong một mảng</a>
-7. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/basic_007.py">Tính tổng, tích và trung bình của các số trong một mảng</a>
-8. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/basic_008.py">In hoa một chuỗi (chuyển toàn bộ chữ cái thường sang in hoa, giữ nguyên những chữ cái in hoa)</a>
-9. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/basic_009.py">Kiểm tra xem một chữ cái có phải là nguyên âm hay không</a>
-10. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/basic_010.py">Tìm tất cả các từ trong một chuỗi có độ dài lớn hơn n (n là do người dùng chọn)</a>
-11. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/basic_011.py">Tìm tất cả các số trong một mảng lớn hơn n (n là do người dùng chọn)</a>
-12. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/basic_012.py">Kiểm tra xem một chuỗi có phải là palindrome hay không</a>
-13. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/basic_013.py">Tính giai thừa</a>
-14. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/basic_014.py">Kiểm tra xem một số được nhập vào có phải là số nguyên tố hay không</a>
-15. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/basic_015.py">Tìm số nguyên tố thứ n (n là do người dùng chọn)</a>
-16. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/basic_016.py">Tìm tất cả các nhân tử chung của 2 mảng</a>
-17. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/basic_017.py">Tìm tất cả ước số của một số nguyên bất kì</a>
-18. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/basic_018.py">Tìm ước số chung lớn nhất của 2 số nguyên a và b bât kì</a>
-19. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/basic_019.py">Chuyển tất cả chữ cái đầu tiên của mỗi từ trong một chuỗi sang in hoa, các chữ cái còn lại trong từ viết thường</a>
-20. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/basic_020.py">Cắt bớt một chuỗi nếu chuỗi lớn hơn một độ dài bất kì do người dùng nhập</a>
-21. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/basic_021.py">Sinh chuỗi Fibonacci</a>
-22. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/basic_022.py">In biểu đồ</a>
-23. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/basic_023.py">Kiểm tra xem một chuỗi có phải là 1 pangram hay không</a>
-24. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/basic_024.py">Tính độ dài của mỗi từ trong một chuỗi</a>
-25. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/basic_025.py">Tính tần suất xuất hiện của mỗi chữ cái trong một chuỗi</a>
+1. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/part_1/basic_001.py">Tính độ dài một chuỗi không sử dụng hàm có sẵn</a>
+2. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/part_1/basic_002.py">Tính độ dài một mảng không sử dụng hàm có sẵn</a>
+3. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/part_1/basic_003.py">Đảo ngược một chuỗi</a>
+4. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/part_1/basic_004.py">Đảo ngược một mảng</a>
+5. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/part_1/basic_005.py">Tìm một hoặc nhiều từ dài nhất trong một chuỗi</a>
+6. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/part_1/basic_006.py">Tìm số lớn nhất và nhỏ nhất trong một mảng</a>
+7. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/part_1/basic_007.py">Tính tổng, tích và trung bình của các số trong một mảng</a>
+8. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/part_1/basic_008.py">In hoa một chuỗi (chuyển toàn bộ chữ cái thường sang in hoa, giữ nguyên những chữ cái in hoa)</a>
+9. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/part_1/basic_009.py">Kiểm tra xem một chữ cái có phải là nguyên âm hay không</a>
+10. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/part_1/basic_010.py">Tìm tất cả các từ trong một chuỗi có độ dài lớn hơn n (n là do người dùng chọn)</a>
+11. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/part_1/basic_011.py">Tìm tất cả các số trong một mảng lớn hơn n (n là do người dùng chọn)</a>
+12. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/part_1/basic_012.py">Kiểm tra xem một chuỗi có phải là palindrome hay không</a>
+13. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/part_1/basic_013.py">Tính giai thừa</a>
+14. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/part_1/basic_014.py">Kiểm tra xem một số được nhập vào có phải là số nguyên tố hay không</a>
+15. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/part_1/basic_015.py">Tìm số nguyên tố thứ n (n là do người dùng chọn)</a>
+16. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/part_1/basic_016.py">Tìm tất cả các nhân tử chung của 2 mảng</a>
+17. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/part_1/basic_017.py">Tìm tất cả ước số của một số nguyên bất kì</a>
+18. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/part_1/basic_018.py">Tìm ước số chung lớn nhất của 2 số nguyên a và b bât kì</a>
+19. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/part_1/basic_019.py">Chuyển tất cả chữ cái đầu tiên của mỗi từ trong một chuỗi sang in hoa, các chữ cái còn lại trong từ viết thường</a>
+20. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/part_1/basic_020.py">Cắt bớt một chuỗi nếu chuỗi lớn hơn một độ dài bất kì do người dùng nhập</a>
+21. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/part_1/basic_021.py">Sinh chuỗi Fibonacci</a>
+22. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/part_1/basic_022.py">In biểu đồ</a>
+23. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/part_1/basic_023.py">Kiểm tra xem một chuỗi có phải là 1 pangram hay không</a>
+24. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/part_1/basic_024.py">Tính độ dài của mỗi từ trong một chuỗi</a>
+25. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/part_1/basic_025.py">Tính tần suất xuất hiện của mỗi chữ cái trong một chuỗi</a>
 
 ### Mô tả chi tiết bài tập
 1. <strong>Tính độ dài một chuỗi không sử dụng hàm có sẵn</strong>
