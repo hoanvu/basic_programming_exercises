@@ -8,5 +8,9 @@ Trong phần II này, các bài tập sẽ tập trung chủ yếu vào việc x
 
 ### Danh sách các bài tập - Phần II
 26. <strong>Đọc file và in nội dung ra màn hình</strong>
+27. <strong>Đọc một file và dùng exception handling để in lỗi tương ứng nếu file đó không tồn tại</strong>
+28. <strong>Tính số dòng, số từ và chữ cái trong một file</strong>
+29. <strong>Tính tổng 2 số được nhập vào và dùng exception handling để kiểm tra input người dùng có phải là số hay không</strong>
+30. <strong>Ghi dòng chữ "Hello World!" vào file với tên bất kì</strong>
 
 ### Mô tả chi tiết bài tập
