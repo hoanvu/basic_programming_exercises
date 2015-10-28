@@ -162,4 +162,4 @@
     + Output: một dict với mỗi cặp key/value là một chữ cái và tần suất xuất hiện tương ứng của chữ cái đó
     + Kiến thức cần biết: Python dict, set, dict comprehension
 
-<a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/Ph%E1%BA%A7n%202.md">Xem các bài tập trong phần II.</a>
+<a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/Ph%E1%BA%A7n%20II.md">Xem các bài tập trong phần II.</a>

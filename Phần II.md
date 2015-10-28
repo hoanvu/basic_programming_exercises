@@ -1,6 +1,6 @@
 # Các bài tập lập trình cơ bản - Phần II
 
-<a href="https://github.com/hoanvu/basic_programming_exercises">Đọc các bài tập thuộc phần I tại đây</a>
+<a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/Ph%E1%BA%A7n%20I.md">Đọc các bài tập thuộc phần I tại đây</a>
 
 Đây là phần II giới thiệu về các bài tập lập trình cơ bản cho các bạn mới bắt đầu. Ở phần I, các bạn đã được làm quen với các thành phần cơ bản của Python như chuỗi, mảng, các kiểu dữ liệu, list, dict, set, hàm, ... Hi vọng lúc này các bạn đã có thể sử dụng các thành phần này một cách nhuần nhuyễn. Chính vì thế, trong phần mô tả chi tiết mình sẽ không đề cập các thành phần cơ bản trên vào mục Kiến thức cần biết nữa.
 

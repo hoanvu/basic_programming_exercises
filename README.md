@@ -7,6 +7,6 @@ Các bạn không nên dùng các standard library của Python (hay một ngôn
 
 Các bài giải mình sẽ viết theo chuẩn PEP8 (sử dụng flake8 để kiểm tra code), mình cũng recommend là bạn hãy tập cho mình thói quen viết code theo chuẩn này, rất có lợi khi đi làm thực tế.
 
-<a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/Ph%E1%BA%A7n%202.md">Phần I</a>
-<a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/Ph%E1%BA%A7n%202.md">Phần II</a>
+1. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/Ph%E1%BA%A7n%20I.md">Phần I</a>
+2. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/Ph%E1%BA%A7n%20II.md">Phần II</a>
 
