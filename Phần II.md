@@ -10,8 +10,9 @@ Trong phần II này, các bài tập sẽ tập trung chủ yếu vào việc x
 26. Đọc file và in nội dung ra màn hình
 27. Đọc một file và dùng exception handling để in lỗi tương ứng nếu file đó không tồn tại
 28. Tính số dòng, số từ và chữ cái trong một file
-29. Tính tổng 2 số được nhập vào và dùng exception handling để kiểm tra input người dùng có phải là số hay không
-30. Ghi dòng chữ "Hello World!" vào file với tên bất kì
+29. Tính số dòng, số từ và chữ cái trong một file sử dụng exception handling
+30. Tính tổng 2 số được nhập vào và dùng exception handling để kiểm tra input người dùng có phải là số hay không
+31. Ghi dòng chữ "Hello World!" vào file với tên bất kì
 
 ### Mô tả chi tiết bài tập
 26. <strong>Đọc file và in nội dung ra màn hình</strong>
@@ -36,14 +37,14 @@ Trong phần II này, các bài tập sẽ tập trung chủ yếu vào việc x
     + Output: số dòng, số từ và chữ cái của file vừa nhập
     + Kiến thức cần biết: Files I/O, exception handling
 
-29. <strong>Tính tổng 2 số được nhập vào và dùng exception handling để kiểm tra input người dùng có phải là số hay không</strong>
+30. <strong>Tính tổng 2 số được nhập vào và dùng exception handling để kiểm tra input người dùng có phải là số hay không</strong>
     + Input: 2 số bất kì
     + Output: 
         + Nếu người dùng nhập vào 2 số, in ra tổng 2 số đó
         + Nếu người dùng nhập vào không phải số, dùng exception handling để xử lí và in ra tin nhắn phù hợp
     + Kiến thức cần biết: exception handling
 
-30. <strong>Ghi dòng chữ "Hello World!" vào file với tên bất kì</strong>
+31. <strong>Ghi dòng chữ "Hello World!" vào file với tên bất kì</strong>
     + Input: chuỗi "Hello World!" hoặc bất kì chuỗi nào mà bạn thích
     + Output: một file mới với nội dung là chuỗi vừa được nhập
     + Kiến thức cần biết: files I/O
