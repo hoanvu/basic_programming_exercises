@@ -7,44 +7,44 @@
 Trong phần II này, các bài tập sẽ tập trung chủ yếu vào việc xử lí file (đọc, ghi, ...), xử lí các exception, regular expression, ...
 
 ### Danh sách các bài tập - Phần II
-26. Đọc file và in nội dung ra màn hình
-27. Đọc một file và dùng exception handling để in lỗi tương ứng nếu file đó không tồn tại
-28. Tính số dòng, số từ và chữ cái trong một file
-29. Tính số dòng, số từ và chữ cái trong một file sử dụng exception handling
-30. Tính tổng 2 số được nhập vào và dùng exception handling để kiểm tra input người dùng có phải là số hay không
-31. Ghi dòng chữ "Hello World!" vào file với tên bất kì
+1. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/part_2/part02_001.py">Đọc file và in nội dung ra màn hình</a>
+2. Đọc một file và dùng exception handling để in lỗi tương ứng nếu file đó không tồn tại
+3. Tính số dòng, số từ và chữ cái trong một file
+4. Tính số dòng, số từ và chữ cái trong một file sử dụng exception handling
+5. Tính tổng 2 số được nhập vào và dùng exception handling để kiểm tra input người dùng có phải là số hay không
+6. Ghi dòng chữ "Hello World!" vào file với tên bất kì
 
 ### Mô tả chi tiết bài tập
-26. <strong>Đọc file và in nội dung ra màn hình</strong>
+1. <strong>Đọc file và in nội dung ra màn hình</strong>
     + Input: đường dẫn tới file cần đọc
     + Output: nội dung của file đó
     + Kiến thức cần biết: Files I/O
 
-27. <strong>Đọc một file và dùng exception handling để in lỗi tương ứng nếu file đó không tồn tại</strong>
+2. <strong>Đọc một file và dùng exception handling để in lỗi tương ứng nếu file đó không tồn tại</strong>
     + Input: đường dẫn tới file cần đọc
     + Output: 
         + Nếu file đó tồn tại, in nội dung ra console
         + Nếu file không tồn tại, xử lí và in ra tin nhắn file không tồn tại
     + Kiến thức cần biết: Files I/O, Exception Handling
 
-28. <strong>Tính số dòng, số từ và chữ cái trong một file</strong>
+3. <strong>Tính số dòng, số từ và chữ cái trong một file</strong>
     + Input: đường dẫn tới file cần đọc
     + Output: số dòng, số từ và chữ cái của file vừa nhập
     + Kiến thức cần biết: Files I/O
 
-29. <strong>Tính số dòng, từ và chữ cái trong một file sử dụng exception handling</strong>
+4. <strong>Tính số dòng, từ và chữ cái trong một file sử dụng exception handling</strong>
     + Input: đường dẫn tới file cần đọc 
     + Output: số dòng, số từ và chữ cái của file vừa nhập
     + Kiến thức cần biết: Files I/O, exception handling
 
-30. <strong>Tính tổng 2 số được nhập vào và dùng exception handling để kiểm tra input người dùng có phải là số hay không</strong>
+5. <strong>Tính tổng 2 số được nhập vào và dùng exception handling để kiểm tra input người dùng có phải là số hay không</strong>
     + Input: 2 số bất kì
     + Output: 
         + Nếu người dùng nhập vào 2 số, in ra tổng 2 số đó
         + Nếu người dùng nhập vào không phải số, dùng exception handling để xử lí và in ra tin nhắn phù hợp
     + Kiến thức cần biết: exception handling
 
-31. <strong>Ghi dòng chữ "Hello World!" vào file với tên bất kì</strong>
+6. <strong>Ghi dòng chữ "Hello World!" vào file với tên bất kì</strong>
     + Input: chuỗi "Hello World!" hoặc bất kì chuỗi nào mà bạn thích
     + Output: một file mới với nội dung là chuỗi vừa được nhập
     + Kiến thức cần biết: files I/O
