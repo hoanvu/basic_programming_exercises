@@ -26,6 +26,6 @@ with open(file_name, 'r') as f:
             number_of_chars += len(
                 [char for char in list(line) if char.lower() in lowercases])
 
-print number_of_lines
-print number_of_words
-print number_of_chars
+print "Number of lines: {}".format(number_of_lines)
+print "Number of words: {}".format(number_of_words)
+print "Number of characters: {}".format(number_of_chars)
