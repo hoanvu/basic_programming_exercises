@@ -8,9 +8,9 @@ Trong phần II này, các bài tập sẽ tập trung chủ yếu vào việc x
 
 ### Danh sách các bài tập - Phần II
 1. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/part_2/part02_001.py">Đọc file và in nội dung ra màn hình</a>
-2. Đọc một file và dùng exception handling để in lỗi tương ứng nếu file đó không tồn tại
-3. Tính số dòng, số từ và chữ cái trong một file
-4. Tính số dòng, số từ và chữ cái trong một file sử dụng exception handling
+2. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/part_2/part02_002.py">Đọc một file và dùng exception handling để in lỗi tương ứng nếu file đó không tồn tại</a>
+3. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/part_2/part02_003.py">Tính số dòng, số từ và chữ cái trong một file (không tính dấu cách và dòng trống)</a>
+4. Tính số dòng, số từ và chữ cái trong một file (không tính dấu cách và dòng trống) sử dụng exception handling
 5. Tính tổng 2 số được nhập vào và dùng exception handling để kiểm tra input người dùng có phải là số hay không
 6. Ghi dòng chữ "Hello World!" vào file với tên bất kì
 
@@ -27,12 +27,12 @@ Trong phần II này, các bài tập sẽ tập trung chủ yếu vào việc x
         + Nếu file không tồn tại, xử lí và in ra tin nhắn file không tồn tại
     + Kiến thức cần biết: Files I/O, Exception Handling
 
-3. <strong>Tính số dòng, số từ và chữ cái trong một file</strong>
+3. <strong>Tính số dòng, số từ và chữ cái trong một file (không tính dấu cách)</strong>
     + Input: đường dẫn tới file cần đọc
     + Output: số dòng, số từ và chữ cái của file vừa nhập
     + Kiến thức cần biết: Files I/O
 
-4. <strong>Tính số dòng, từ và chữ cái trong một file sử dụng exception handling</strong>
+4. <strong>Tính số dòng, từ và chữ cái trong một file (không tính dấu cách) sử dụng exception handling</strong>
     + Input: đường dẫn tới file cần đọc 
     + Output: số dòng, số từ và chữ cái của file vừa nhập
     + Kiến thức cần biết: Files I/O, exception handling
