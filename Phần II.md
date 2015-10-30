@@ -10,7 +10,7 @@ Trong phần II này, các bài tập sẽ tập trung chủ yếu vào việc x
 1. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/part_2/part02_001.py">Đọc file và in nội dung ra màn hình</a>
 2. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/part_2/part02_002.py">Đọc một file và dùng exception handling để in lỗi tương ứng nếu file đó không tồn tại</a>
 3. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/part_2/part02_003.py">Tính số dòng, số từ và chữ cái trong một file (không tính dấu cách và dòng trống)</a>
-4. Tính số dòng, số từ và chữ cái trong một file (không tính dấu cách và dòng trống) sử dụng exception handling
+4. <a href="https://github.com/hoanvu/basic_programming_exercises/blob/master/solutions/part_2/part02_004.py"></a>Tính số dòng, số từ và chữ cái trong một file (không tính dấu cách và dòng trống) sử dụng exception handling</a>
 5. Tính tổng 2 số được nhập vào và dùng exception handling để kiểm tra input người dùng có phải là số hay không
 6. Ghi dòng chữ "Hello World!" vào file với tên bất kì
 
